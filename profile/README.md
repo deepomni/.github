@@ -1,1 +1,1 @@
-Designing Modular, High-Throughput OSS for Deep Learning Research and Production at Scale.
+Designing Modular, High-ThroughPut OSS for Deep Learning Research and Production at Scale.
