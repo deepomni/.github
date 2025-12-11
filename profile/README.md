@@ -1,1 +1,1 @@
-Designing Modular, High-ThroughPut OSS for Deep Learning Research and Production at Scale.
+Researching and Engineering Scalable, Distributed, and High-Throughput Infrastructure for High-Performance Deep Learning and Quantitative Finance.
